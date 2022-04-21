@@ -8,5 +8,6 @@ Para ser un desarrollador Java es recomendado seguir el orden correcto, los sigu
 4. Continúa aprendiendo, si ya has completado los pasos anteriores ya sabes Java (al menos lo básico) y podrías continuar por los siguientes caminos:
 - Android Developer: puedes desarrollar apps android con Java.
 - Backend Developer: Java es un excelente lenguaje para el backend.
+- Desktop Developer: claro, con java se pueden desarrollar programas de escritorio, por ejemplo; IntelliJ IDEA está desarrollado en Java. Genial verdad!
 - Videojuegos: Con Java se desarrolló Minecraft, por lo que si desarrollas un juego en Java podrías tener la portabilidad asegurada.
 - Etc: con Java se pueden desarrollar infinidad de apps, incluso para áreas como la inteligencia artificial y el machine learning, no es muy común pero de que se puede se puede.
