@@ -12,3 +12,8 @@ Ya sea que se trate de inteligencia artificial, automatización, ciberseguridad,
 https://www.youtube.com/@DevoxxForever
 
 Este canal tiene los mejores videos de Java que puedas encontrar. El nivel de los videos es para seniors y encontraras conferencias de explicaciones practicas de como aplicacar de buenas practicas y patrones de diseño. En el canal encontraras otros temas especificos de trabajo con Java.
+
+## Dab Vega
+Link: https://www.youtube.com/@DanVega
+
+Canal en inglés del Java Champion Dan Vega. En esta canal podemos encontrar excelentes videos principalmente sobre Java y Spring Framework. No es un canal enfocado a cursos completos pero el contenido de este puede ser utilizado referencia para temas específicos.
